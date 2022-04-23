@@ -3,7 +3,7 @@ package org.add;
 public class GreensTech {
 	public void greensOmr(String city, int pincode) {
 		System.out.println(city+"\t"+pincode);
-	}
+//system.out
 	public void greensOmr( int pincode,String city) {
 		System.out.println(pincode+"\t"+city);
 	}
